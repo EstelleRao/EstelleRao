@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="150"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/%E9%9B%85%E6%83%A0-%E9%A5%B6-80834b124/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,10 +10,10 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/cQ23bDqzbWbh240xQq/giphy.gif" width="300" height="400"/>
 </div> 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
@@ -25,7 +25,7 @@ I am a Technical Writer and Translator <img src="https://media.giphy.com/media/W
 
 - :thinking: Always be open to challenges, new things, and new experiences. Keep being curious!
 
-- :kite: In 2021, I learned how to play piano and swim. So in my free time, I practice some rhythms and songs and swim a lot. I also like playing badminton and ping pong, and climbing mountains to enjoy the magnificent landscape and city views. Well, other times, I just medidate and reflect on the meaning of life.
+- :kite: In 2021, I learned how to play piano and swim. So in my free time, I practice some songs and swim a lot. I also like playing badminton and ping pong, and climbing mountains to enjoy the magnificent landscape and city views. Well, other times, I just meditate and reflect on the meaning of life.
 
 - :magic_wand: I'm very glad to share with you a good news: I had an ICL surgery in April 1, 2022, which is a big moment for me because I get rid of the bothersome glasses in the end. 
 
