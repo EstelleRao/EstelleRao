@@ -21,7 +21,7 @@
 I am a Technical Writer and Translator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 - :memo: I’m working as a Technical Writer and contributing to open-source software documentation.
 
-- :seedling: Exploring technical communication, technical writing, localization and internationalization, UI design, and user experience. Keep learning!
+- :seedling: Exploring technical communication, technical writing, L10n and i18n, UI design, and user experience. Keep learning!
 
 - :thinking: Always be open to challenges and new experiences. In 2021, I learned how to play piano and swim! Keep being curious!
 
