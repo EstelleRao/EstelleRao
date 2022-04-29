@@ -27,7 +27,7 @@ I am a Technical Writer and Translator <img src="https://media.giphy.com/media/W
 
 - :kite: Things I like doing: :musical_keyboard: :swimming_woman: :badminton: :ping_pong: :biking_woman: :mountain: :sunrise_over_mountains: :city_sunset:. Well, sometimes, I meditate :lotus_position_woman: and reflect on the meaning of life.
 
-- :magic_wand: I'm very glad to share with you a good news: I had an ICL surgery in April 1, 2022, which is a big moment for me because I get rid of the bothersome glasses in the end. 
+- :magic_wand: I'm very glad to share with you a good news: I had an ICL surgery on April 1, 2022, which is a big moment for me because I get rid of the bothersome glasses in the end. 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EstelleRao-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E9%9B%85%E6%83%A0-%E9%A5%B6-80834b124/?locale=en_US)
 
